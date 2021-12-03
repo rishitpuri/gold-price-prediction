@@ -1,1 +1,1 @@
-# linear-discriminant-analysis-in-R
+# mini portfolio
